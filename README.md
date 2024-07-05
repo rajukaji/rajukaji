@@ -8,13 +8,13 @@ Here are some ideas to get you started: -->
 
 <details> 
     <summary>
-        🌱 I’m currently learning ...
+        <h1>🌱 I’m currently learning ...</h1>
     </summary> 
+    <br>
     *Python
     *Java
     *C++ 
 </details>
-
 
 <details> 
     <summary> ⚡ Fun fact: </summary>
