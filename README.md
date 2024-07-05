@@ -10,10 +10,12 @@ Here are some ideas to get you started: -->
     <summary>
         <h1>🌱 I’m currently learning ...</h1>
     </summary> 
-    <br>
-    *Python
-    *Java
-    *C++ 
+    <be>
+    <ul>
+        <li>Python</li>
+        <li>Java</li>
+        <li>C++></li>
+    </ul>
 </details>
 
 <details> 
