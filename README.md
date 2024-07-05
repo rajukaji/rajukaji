@@ -7,10 +7,12 @@ Here are some ideas to get you started: -->
 # ♓ 👨‍🎓 🎶 🖥 🏫 ⛈ 😌 🎸🕵️👨🏻‍💻✔️🧐 Loading… 🎭
 - 🔭 I’m currently working on ... Ask me.
 
-<details> <summary> > 
-[!Memo]
-> 🌱 I’m currently learning ...
-</summary> # Python, Java, C++ </details>
+<details> 
+    <summary>
+>[!Memo]
+>🌱 I’m currently learning ...
+    </summary> 
+# Python, Java, C++ </details>
 
 
 <details> <summary> ⚡ Fun fact: </summary> ...
