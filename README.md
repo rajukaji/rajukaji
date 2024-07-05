@@ -10,7 +10,9 @@ Here are some ideas to get you started: -->
     <summary>
         🌱 I’m currently learning ...
     </summary> 
-    #Python, Java, C++ 
+    *Python
+    *Java
+    *C++ 
 </details>
 
 
