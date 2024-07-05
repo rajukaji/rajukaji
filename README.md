@@ -12,7 +12,7 @@ Here are some ideas to get you started: -->
     </summary> 
     <br>
     <ul>
-        <li> <b> <a href="https://www.python.org/"> <h3>Python</h3> </a> </b> </li>
+        <li> <a href="https://www.python.org/"> <h3><b>Python</h3></b> </a> </li>
         <li>Java</li>
         <li>C++</li>
     </ul>
