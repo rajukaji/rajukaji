@@ -9,10 +9,10 @@ Here are some ideas to get you started: -->
 
 <details> 
     <summary>
->[!Memo]
->🌱 I’m currently learning ...
+        🌱 I’m currently learning ...
     </summary> 
-# Python, Java, C++ </details>
+    # Python, Java, C++ 
+</details>
 
 
 <details> <summary> ⚡ Fun fact: </summary> ...
