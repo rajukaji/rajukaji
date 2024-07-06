@@ -13,8 +13,8 @@ Here are some ideas to get you started: -->
     <br>
     <ul>
         <li> <a href=https://www.python.org/> Python </a> </li>
-        <li>Java</li>
-        <li>C++</li>
+        <li> <a href=https://dev.java/learn/>  Java </a> </li>
+        <li> <a href=https://www.learncpp.com/> C++ </a> </li>
     </ul>
 </details>
 <br>
