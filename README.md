@@ -12,9 +12,9 @@ Here are some ideas to get you started: -->
     </summary> 
     <br>
     <ul>
-        <li> <a href=Https://www.python.org/ target="_blank" rel="noopener noreferrer"> Python </a> </li>
-        <li> <a href=Https://dev.java/learn/ target="_blank" rel="noopener noreferrer">  Java </a> </li>
-        <li> <a href=https://www.learncpp.com/ target="_blank" rel="noopener noreferrer"> C++ </a> </li>
+        <li> <a href=https://www.python.org/ target=_blank rel=noopener noreferrer> Python </a> </li>
+        <li> <a href=https://dev.java/learn/ target=_blank rel=noopener noreferrer>  Java </a> </li>
+        <li> <a href=https://www.learncpp.com/ target=_blank rel=noopener noreferrer> C++ </a> </li>
     </ul>
 </details>
 <br>
