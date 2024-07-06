@@ -1,5 +1,6 @@
 # Hi there 👋
 ## I'm Raju from Kathmandu!
+<script>alert("Hey!")</script>
 <!--
 **rajukaji/rajukaji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
