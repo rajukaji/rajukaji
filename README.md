@@ -15,7 +15,7 @@ Here are some ideas to get you started: -->
         <li> <a href=https://www.python.org/ target=_blank rel=noopener noreferrer> Python </a> </li>
         <li> <a href=https://dev.java/learn/ target=_blank rel=noopener noreferrer>  Java </a> </li>
         <li> <a href=https://www.learncpp.com/ target=_blank rel=noopener noreferrer> C++ </a> </li>
-        <li> <a href=https://www.learncpp.com/](https://www.codewars.com/users/rajukaji/badges/large target=_blank rel=noopener noreferrer>Codewars </a> </li>
+        <li> <a href=https://www.codewars.com/users/rajukaji/badges/large target=_blank rel=noopener noreferrer>Codewars </a> </li>
     </ul>
 </details>
 <br>
